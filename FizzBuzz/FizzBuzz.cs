@@ -11,9 +11,9 @@ namespace FizzBuzz
             {
                 var addString = num switch
                 {
+                    var value when value % 15 == 0 => "FizzBuzz",
                     var value when value % 3 == 0 => "Fizz",
                     var value when value % 5 == 0 => "Buzz",
-                    var value when value % 15 == 0 => "FizzBuzz",
                     _ => num.ToString()
                 };
                 strings.Add(addString);
