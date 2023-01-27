@@ -1,0 +1,7 @@
+C:\Users\daniil.terten\RiderProjects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\daniil.terten\RiderProjects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\daniil.terten\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\daniil.terten\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.terten\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\daniil.terten\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\daniil.terten\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
